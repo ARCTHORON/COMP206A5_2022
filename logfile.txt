@@ -1,0 +1,126 @@
+commit d0cbb714443bb9d37b7758a2cd2dea076791b72e
+Author: Karim Alami <kalami3@teach-node-04.cs.mcgill.ca>
+Date:   Fri Apr 14 17:36:42 2023 -0400
+
+    All the files needed to hand in, including the makefile. Officially the LAST commit!
+
+commit f118fe13dbddd90122d3d1cbbc4607fe4a38d474
+Author: Thomas Buhler <tbuhle@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 16:48:34 2023 -0400
+
+    IPACS updated makefile finished
+
+commit ecb30dce0a59a1b4d5a9a68c0556ccd2e66f4062
+Author: Thomas Buhler <tbuhle@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 16:22:35 2023 -0400
+
+    FINAL DRAFT WITH UPDATES IPACS
+
+commit 33d15c86b2e8a54665c296f3d8dba2435f88f60e
+Author: Thomas Buhler <tbuhle@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 16:11:59 2023 -0400
+
+    debug print statements removed, project is DONE NOTE, some log entries from the start of the project were lost due to a mess up when commiting with git
+
+commit 9f16e5d607a862d970e2399ed2357ae886281ced
+Author: Karim Alami <kalami3@teach-node-04.cs.mcgill.ca>
+Date:   Fri Apr 14 16:03:08 2023 -0400
+
+    Head pointer now works fine!
+
+commit 2bd7b3162eaa42920bd9a5420becf71ff4437ded
+Author: Thomas Buhler <tbuhle@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 15:48:16 2023 -0400
+
+    clear and delete missing a malloc'd pointer to work
+
+commit e013b42dbf0586e3a0d1bb73b93455344b315b50
+Author: Karim Alami <kalami3@teach-node-04.cs.mcgill.ca>
+Date:   Thu Apr 13 21:42:06 2023 -0400
+
+    The log is messed up, tried to fix it made it slightly worse, this is the good commit. Fully debugged main: there were small issues in load and add, major changes to Delete/Clear. Now Thomas needs to make sure the helper functions delete/clear are fully functional.
+
+commit 3b4cb6300c6056b0fdd0602dbfd98e07aad54d7a
+Merge: 908f684 ad4456d
+Author: Karim Alami <kalami3@teach-node-04.cs.mcgill.ca>
+Date:   Thu Apr 13 21:33:22 2023 -0400
+
+    Merge branch 'main' of comp206-group060:code-repository
+
+commit 908f684add5b078450748a72955f2ee7035423ec
+Author: Karim Alami <kalami3@teach-node-04.cs.mcgill.ca>
+Date:   Thu Apr 13 21:05:40 2023 -0400
+
+    Fully debugged main: there were small issues in load and add, major changes to Delete/Clear. Now Thomas needs to make sure the helper functions delete/clear are fully functional.
+
+commit ad4456de699d961f12e1c86c0480736a6a33506d
+Author: Karim Alami <kalami3@teach-node-04.cs.mcgill.ca>
+Date:   Thu Apr 13 21:05:40 2023 -0400
+
+    Fully debugged main: there were small issues in load and add, major changes to Delete/Clear. Now Thomas needs to make sure the helper functions delete/clear are fully functional.
+
+commit e1d7a57d794b31e8c654ceedb2e5da61b67ba5b7
+Author: Karim Alami <kalami3@teach-node-04.cs.mcgill.ca>
+Date:   Thu Apr 13 19:24:50 2023 -0400
+
+    Fully debugged main: there were small issues in load and add, major changes to Delete/Clear. Now Thomas needs to make sure the helper functions delete/clear are fully functional.
+
+commit d12a51841f5fc3ce84c3bd6e0dd1fc595f39ba17
+Author: Mo'tasim Mauthoor <mmauth@open-gpu-22.CS.McGill.CA>
+Date:   Thu Apr 13 13:44:21 2023 -0400
+
+    thomas and motasim updated part in main
+
+commit 828d83e4caf44d8958d02ef94e45d8d7b19fe8c6
+Author: Karim Alami <kalami3@teach-node-04.cs.mcgill.ca>
+Date:   Wed Apr 12 23:15:30 2023 -0400
+
+    in main() load,add and save works with the linked list structure
+
+commit 7fb5af68e606384a7aeec3c42edc8176a4352da9
+Author: Thomas Buhler <tbuhle@teach-node-05.CS.McGill.CA>
+Date:   Wed Apr 12 21:07:17 2023 -0400
+
+    thomas delete and clear have been added
+
+commit 9fb4571968d82371db52956d9e053946236596a1
+Author: Mo'tasim Mauthoor <mmauth@open-gpu-26.CS.McGill.CA>
+Date:   Wed Apr 12 19:40:17 2023 -0400
+
+    listRecords() and findRecord completed. Also updated main() to make it work with these two functions
+
+commit e38d436ca30bd21a79d01a4e10f2b969624d8e34
+Author: Karim Alami <kalami3@teach-node-04.cs.mcgill.ca>
+Date:   Mon Apr 10 11:48:53 2023 -0400
+
+    loadCSV, saveCSV, addRecord are now all fully functional and debugged. Note mini5phone.c contains a main method that I left in case someone wants to use it to debug.
+
+commit 66fb6daf44bb56444c3670987ef08197949208d8
+Author: Karim Alami <kalami3@teach-node-08.cs.mcgill.ca>
+Date:   Sun Apr 9 15:26:54 2023 -0400
+
+    Last time, pull this as starter code
+
+commit 4b8b628b9afdcab744b61fc807d87a06dd7de8f0
+Author: Karim Alami <kalami3@teach-node-08.cs.mcgill.ca>
+Date:   Sun Apr 9 15:20:35 2023 -0400
+
+    Retrying the pull
+
+commit d88422f9d223fd9b0747a019ab2b64a70678bebe
+Author: Karim Alami <kalami3@teach-node-08.cs.mcgill.ca>
+Date:   Sun Apr 9 15:14:42 2023 -0400
+
+    My version for mini4 with loadCSV working with linked list
+
+commit d7cfc423acc5a0e9e7db770804a44c4a0e279f90
+Author: Karim Alami <kalami3@teach-node-08.cs.mcgill.ca>
+Date:   Sun Apr 9 14:01:26 2023 -0400
+
+    My uneditted versions for mini4 part A. Sharing this since the sample code provided contained global variables which according to the document should not be allowed.
+
+commit b2b91812fe963c0598348a850da46f23d25c7ada
+Author: Karim Alami <kalami3@teach-node-03.cs.mcgill.ca>
+Date:   Sat Apr 8 15:20:17 2023 -0400
+
+    Uneditted starter code from myCourses
